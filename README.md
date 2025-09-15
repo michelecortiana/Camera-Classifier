@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tk" alt="logo python opencv tk" width="15%">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tk" alt="logo python opencv tk" width="25%">
   <br><br>
   <i>Camera Classifier with live video feed,<br>
   custom Tkinter GUI, and CNN model trained on user images.</i>
