@@ -53,8 +53,6 @@ This tool is ideal for small-scale image classification experiments, live demons
 * Captured images are stored in numbered folders (e.g., `1`, `2`, …) that match the chosen classes.
 * Train the CNN model with the collected images. **Note:** while training, the application will temporarily freeze and the live image will stop updating until training is completed.
 * Use the **"Predict"** or **"Auto Prediction"** buttons to classify the live camera feed.
-
-* The **Auto Prediction** mode is very sensitive and requires a high number of well-distributed images for good performance.
 * The **"Reset"** button deletes all collected images but leaves the folders intact (they can be removed manually if desired).
 * The status bar and labels display prediction results in real-time.
 
