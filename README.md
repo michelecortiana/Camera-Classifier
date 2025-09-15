@@ -49,7 +49,9 @@ On first run, the batch file will install the required Python packages (from req
 
 **Workflow:**
 
-* The program prompts for class number and names.
+* The program prompts for class number and names.<br>
+![App Screenshot](img/setup.png)<br>
+![App Screenshot](img/class.png)<br>
 * Capture images per class using the provided buttons.
 * Train the CNN model with the collected images.
 * Use the "Predict" or "Auto Prediction" buttons to classify live camera feed.
