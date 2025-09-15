@@ -38,9 +38,9 @@ This tool is ideal for small-scale image classification experiments, live demons
 
 **⚠️ Python 3.x is required on the machine to run this project.**
 
-1. Download the latest SentimentAnalyzer folder (includes all files and the batch file).
+1. Download the latest CameraClassifier folder (includes all files and the batch file).
 2. Make sure Python 3.x is installed and added to your system PATH.
-3. Open the folder and double-click run_sentiment_analyzer.bat to start the application.
+3. Open the folder and double-click run_camera_classifier.bat to start the application.
 On first run, the batch file will install the required Python packages (from requirements.txt). 
 
 
